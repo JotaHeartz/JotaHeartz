@@ -23,6 +23,7 @@ print("Hello World")
 [Github](github.com)
 
 >Imagem clicavel:
+Clique na imagem para acessar o Google.
 [![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...](https://google.com.br)
 
 Letra   | Num
