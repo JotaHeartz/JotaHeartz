@@ -3,6 +3,8 @@
 ---
 > Esta é uma citação
 ---
+~Corta e tchau~
+---
 1. **Primeiro item**
 2. **Segundo item**
 3. **Terceiro item**
