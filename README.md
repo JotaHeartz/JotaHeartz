@@ -2,12 +2,12 @@
 ---
 > Esta é uma citação
 ---
-1. Primeiro item
-2. Segundo item
-3. Terceiro item
-    1. Indentado item
-    2. Indentado item
-4. Quarto item
+1. **Primeiro item**
+2. **Segundo item**
+3. **Terceiro item**
+    1. *Indentado item*
+    2. *Indentado item*
+4. **Quarto item**
 ---
 > Lista de Tarefas
 - [ ] A
