@@ -19,20 +19,21 @@ print("Hello World")
   ```
 ---
 >Aqui um link:
-[youtube](youtube.com)
-
-
-<!--
-**JotaHeartz/JotaHeartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[MeuPerfil](github.com/JotaHeartz)
+[Github](github.com)
+---
+>Imagem clicavel:
+[![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...](https://google.com.br)
+---
+>Tabela
+Teste   | Exemplo
+------- | ------
+A |1
+B |2
+C |3
+D |4
+---
+>Tabela Horizontal:
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Exemplo | Exemplo | Exemplo
