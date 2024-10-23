@@ -24,16 +24,15 @@ print("Hello World")
 ---
 >Imagem clicavel:
 [![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...](https://google.com.br)
----
->Tabela
+
 Teste   | Exemplo
 ------- | ------
 A |1
 B |2
 C |3
 D |4
----
->Tabela Horizontal:
+
+Tabela Horizontal:
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Exemplo | Exemplo | Exemplo
