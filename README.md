@@ -26,7 +26,7 @@ print("Hello World")
 [Github](github.com)
 ---
 
-Clique na imagem para acessar o Google.
+Imagem quebrada:
 [![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...](https://google.com.br)
 
 Letra   | Num
