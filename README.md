@@ -1,4 +1,4 @@
-## Apresentação Markdown
+## Apresentação Markdown :fire: :fire: :computer: :skull:
 ---
 > Esta é uma citação
 ---
@@ -21,11 +21,11 @@ print("Hello World")
 >Aqui um link:
 [MeuPerfil](github.com/JotaHeartz)
 [Github](github.com)
----
+
 >Imagem clicavel:
 [![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...](https://google.com.br)
 
-Teste   | Exemplo
+Letra   | Num
 ------- | ------
 A |1
 B |2
@@ -33,6 +33,15 @@ C |3
 D |4
 
 Tabela Horizontal:
-Alinhado a esquerda | Centralizado | Alinhado a direita
+Primeiro | Segundo | Terceiro
 :--------- | :------: | -------:
-Exemplo | Exemplo | Exemplo
+1 | 2 | 3
+---
+Uso de HTML.
+<dl>
+  <dt>Lista definitiva</dt>
+  <dd>É algo que as pessoas usam às vezes.</dd>
+
+  <dt>Markdown no HTML</dt>
+  <dd>*Não* funciona **muito bem**. Use as <em>tags</em> do HTML</dd>
+</dl>
